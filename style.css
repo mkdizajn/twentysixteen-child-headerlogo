@@ -1,0 +1,24 @@
+/*
+Theme Name: Twenty Sixteen Logo (child)
+Author: Kresimir Pendic
+Author URI: https://mkdizajn.github.io/
+Description: This theme is a child theme for Twenty Sixteen and it only adds the missing header thing for adding your custom logo brand image. You need to have "Twenty Sixteen" instaled, and naturaly be on > 4.4 Wordpress version.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, blue, gray, red, white, yellow, dark, light, one-column, two-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Template: twentysixteen
+Version: 1.0.0
+Text Domain: twentysixteen-child-headerlogo
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* custom logo max width */
+.site-branding img{
+	max-width: 100%;
+}
+
+/* custom styles */
+
